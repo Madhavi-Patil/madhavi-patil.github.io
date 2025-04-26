@@ -426,14 +426,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-david-holdridge-wins-2024-fulbright-scholarship",
+            },},{id: "news-david-holdridge-wins-2024-fulbright-scholarship",
           title: 'David Holdridge wins 2024 Fulbright Scholarship!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
+            },},{id: "news-crash-course-usda",
+          title: 'Crash course @USDA',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
             },},{id: "news-anugya-bhattarai-wins-graduate-student-research-award",
           title: 'Anugya Bhattarai wins Graduate Student Research Award!',
           description: "",
