@@ -58,6 +58,20 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
+            },{id: "dropdown-contact-us",
+              title: "contact us",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/contactus/";
+              },
+            },{id: "dropdown-join-us",
+              title: "join us",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "https://gradschool.utk.edu/future-students/office-of-graduate-admissions/applying-to-graduate-school/";
+              },
             },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
