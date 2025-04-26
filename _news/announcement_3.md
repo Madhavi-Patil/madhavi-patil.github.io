@@ -1,9 +1,13 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
-inline: true
+title: Crash course @USDA
+date: 2025-04-17
+inline: false
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+ USDA Visit 
+
+---
+  :smile:
 
