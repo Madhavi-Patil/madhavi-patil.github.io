@@ -443,8 +443,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-announcement-1",
-          title: 'Announcement_1',
+          section: "News",},{id: "news-david-holdridge-wins-2024-fulbright-scholarship",
+          title: 'David Holdridge wins 2024 Fulbright Scholarship!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
