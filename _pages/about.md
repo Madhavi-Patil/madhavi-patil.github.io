@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+Severe disease epidemics in wild plant pathosystems are rare when compared to crop pathosystems. Genetic heterogeneity of the hosts is a significant feature of wild plant populations. It presumably plays a major role in suppressing the emergence of novel pathogen virulence. My lab aims to understand how the genetic makeup of wild grape populations in the Blue Ridge Mountains influences its coevolution with a highly coevolved downy mildew-causing pathogen and vice versa. We integrate fields of genomics, population and evolutionary genomics, computational biology, ecology, and plant pathology. My lab’s long-term goal is to learn evolutionary principles from wild plant pathosystems that will be useful in managing crop diseases sustainably.
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
