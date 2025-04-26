@@ -14,20 +14,20 @@ profiles:
     content: about_gaushi.md
     image_circular: false # crops the image to make it circular
     more_info: >
-     PI and Benevolent Dictator of the Lab
+     <p>PI and Benevolent Dictator of the Lab </p>
   - align: left
     image: prof_pic_rachel.jpg
     content: about_rachel.md
     image_circular: false # crops the image to make it circular
-    more_info: Lab Manager (June 2024 - )
+    # more_info: Lab Manager (June 2024 - )
   - align: right
     image: prof_pic_david.jpg
     content: about_david.md
     image_circular: false # crops the image to make it circular
-    more_info: GIS Manager (June 2024 - August 2024)
+    # more_info: GIS Manager (June 2024 - August 2024)
   - align: left
     image: prof_pic_olivia.jpg
     content: about_olivia.md
     image_circular: false # crops the image to make it circular
-    more_info: Collections Manager (May 2024 - August 2024)
+    # more_info: Collections Manager (May 2024 - August 2024)
 ---
