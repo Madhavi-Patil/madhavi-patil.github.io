@@ -10,4 +10,9 @@ children:
   - title: divider
   - title: blog
     permalink: /blog/
+  - title: divider
+  - title: contact us
+    permalink: /contactus/
+  - title: join us
+    permalink: https://gradschool.utk.edu/future-students/office-of-graduate-admissions/applying-to-graduate-school/
 ---
