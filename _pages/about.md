@@ -2,10 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: <a href='https://utia.tennessee.edu/'> Institute of Agriculture, University of Tennessee, Knoxville</a>. 
 profile:
-  align: right
+  align: top
   image: coevolutionlab_logo.png
   image_circular: false # crops the image to make it circular
   
