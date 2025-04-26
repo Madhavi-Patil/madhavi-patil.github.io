@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - gaushi
+  - madhavi-patil
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - madhavi-patil/al-folio
+  - gaushi/north_american_arabidopsis
+  - gaushi/lecture_notes
+  - gaushi/vcf2gwas
+  - gaushi/HyperNetX
+  - gaushi/pandarallel
+  - gaushi/python-engineer-notebooks
