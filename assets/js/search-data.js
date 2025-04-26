@@ -448,8 +448,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "news-anugya-wins-research-award",
-          title: 'Anugya wins research award!',
+            },},{id: "news-anugya-bhattarai-wins-graduate-student-research-award",
+          title: 'Anugya Bhattarai wins Graduate Student Research Award!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
