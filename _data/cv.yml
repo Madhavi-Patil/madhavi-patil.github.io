@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Gautam Shirsekar
     - name: Date of Birth
-      value: 14th March 1879
+      value: 29th June 1979
     - name: Languages
-      value: English, German
+      value: English, Hindi, Marathi, German
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: PhD in Plant Pathology, The Ohio State University, Columbus, OH, USA
+      year: 2006 – 2013
       description:
         - Description 1.
         - Description 2.
