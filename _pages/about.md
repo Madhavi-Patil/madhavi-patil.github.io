@@ -9,8 +9,8 @@ profile:
   image: coevolutionlab_logo.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>339 Agriculture and Natural Resources Building</p>
-    <p>2431 Joe Johnson Drive</p>
+    <p>339 Agriculture and Natural Resources Building,</p>
+    <p>2431 Joe Johnson Drive,</p>
     <p>Knoxville, Tennessee 37996</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
