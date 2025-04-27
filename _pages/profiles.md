@@ -14,13 +14,13 @@ profiles:
     content: about_anugya.md
     image_circular: false # crops the image to make it circular
     more_info: >
-     <p>Anugya Bhattarai </p>
+      <p>Anugya Bhattarai </p>
   - align: left
     image: prof_pic.jpg
     content: about_gaushi.md
     image_circular: false # crops the image to make it circular
     more_info: >
-     <p>Gautam Shirsekar </p>
+      <p>Gautam Shirsekar </p>
   - align: right
     image: prof_pic_rachel.jpg
     content: about_rachel.md
