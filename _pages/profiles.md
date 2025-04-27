@@ -9,12 +9,18 @@ nav_order: 7
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+   - align: right
+    image: Anugya_prof_pic.jpg
+    content: about_anugya.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+     <p>Anugya Bhattarai </p>
   - align: right
     image: prof_pic.jpg
     content: about_gaushi.md
     image_circular: false # crops the image to make it circular
     more_info: >
-     <p>PI and Benevolent Dictator of the Lab </p>
+     <p>Gautam Shirsekar </p>
   - align: left
     image: prof_pic_rachel.jpg
     content: about_rachel.md
