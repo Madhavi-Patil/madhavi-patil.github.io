@@ -445,8 +445,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "news-crash-course-usda",
-          title: 'Crash course @USDA',
+            },},{id: "news-training-at-appalachian-fruit-research-station-in-kearneysville",
+          title: 'Training at Appalachian Fruit Research Station in Kearneysville',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
