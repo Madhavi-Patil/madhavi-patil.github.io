@@ -38,7 +38,7 @@ ninja.data = [{
             window.location.href = "/members/";
           },
         },{id: "nav-teaching",
-          title: "Teaching",
+          title: "teaching",
           description: "These are the courses I teach in the Department of Enotomology and Plant Pathology at UTK",
           section: "Navigation",
           handler: () => {
