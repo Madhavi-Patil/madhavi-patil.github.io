@@ -63,7 +63,7 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "https://gradschool.utk.edu/future-students/office-of-graduate-admissions/applying-to-graduate-school/";
+                window.location.href = "/joinus/";
               },
             },{id: "post-a-post-with-plotly-js",
         
