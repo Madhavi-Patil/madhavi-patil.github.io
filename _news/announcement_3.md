@@ -14,22 +14,33 @@ We visited Appalachian Fruit Research Station of United States Department of Agr
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path='../../assets/img/5.jpg' title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path='../../assets/img/usda_fields1.jpeg' title="CoEvolutionLab with Dr. Sapkota" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    CoEvolutionLab with Dr. Sapkota.
 </div>
-
-<div style="text-align: right;"> 
- <img class="img-fluid z-depth-1 rounded" src='../../assets/img/usda_fields1.jpeg'>
- <p>CoEvolutionLab with Dr. Sapkota </p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path='../../assets/img/usda_lab1.jpeg' title="Dr.Sapkota showing his growth chambers" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-
-
-![CoEvolutionLab with Dr. Sapkota](../../assets/img/usda_fields1.jpeg){."img-fluid z-depth-1 rounded"}
-CoEvolutionLab with Dr. Sapkota
-![Anugya and Dr. Sapkota](../../assets/img/usda_fields2.jpeg){.'img-fluid z-depth-1 rounded'}
-Anugya and Dr. Sapkota
-![Dr.Sapkota showing his growth chambers](../../assets/img/usda_lab1.jpeg){.img-fluid z-depth-1 rounded}
-![Greenhouse](../../assets/img/usda_lab2.jpeg){'img-fluid z-depth-1 rounded'}
+<div class="caption">
+    Dr.Sapkota showing his growth chambers
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path='../../assets/img/usda_fields2.jpeg' title="Anugya and Dr. Sapkota" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Anugya and Dr. Sapkota
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path='../../assets/img/usda_lab2.jpeg' title="Greenhouse" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Greenhouse
+</div>
