@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jain us
+title: Join us
 permalink: /joinus/
 nav: false
 ---
