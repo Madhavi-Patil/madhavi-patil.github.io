@@ -1,3 +1,3 @@
 Bachelor of Science (xxx) from the University of Tennessee
-Role: Field Collections Manager
-[duration]
+<p>Role: Field Collections Manager</p>
+<p></p>[duration]</p>
