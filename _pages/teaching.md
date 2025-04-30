@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: These are the courses I teach in the Department of Enotomology and Plant Pathology at UTK 
 nav: true
 nav_order: 6
