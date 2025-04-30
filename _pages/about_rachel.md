@@ -1,3 +1,3 @@
 Education: xxx
-Role: Field Collections Manager
-Duration:
+<p>Role: Field Collections Manager</p>
+<p>Duration:</p>
