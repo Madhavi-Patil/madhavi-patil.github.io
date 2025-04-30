@@ -4,7 +4,7 @@ permalink: /members/
 title: Members
 description: Current and Former Members of the Lab
 nav: true
-nav_order: 6
+nav_order: 5
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
