@@ -9,13 +9,13 @@ nav_order: 6
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: left
+  - align: right
     image: prof_pic.jpg
     content: about_gaushi.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Gautam Shirsekar </p>
-  - align: right
+  - align: left
     image: Anugya_prof_pic.jpg
     content: about_anugya.md
     image_circular: false # crops the image to make it circular
