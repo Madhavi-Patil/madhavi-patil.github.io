@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://utia.tennessee.edu/'> Institute of Agriculture, University of Tennessee, Knoxville</a>. 
 profile:
