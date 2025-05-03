@@ -430,6 +430,11 @@ ninja.data = [{
           title: 'tbd',
           description: "",
           section: "News",handler: () => {
+              window.location.href = "/news/announcement_6/";
+            },},{id: "news-tbd",
+          title: 'tbd',
+          description: "",
+          section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
             },},{id: "news-david-holdridge-wins-2024-fulbright-scholarship",
           title: 'David Holdridge wins 2024 Fulbright Scholarship!',
