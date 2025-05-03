@@ -8,7 +8,7 @@ children:
   - title: Bookshelf
     permalink: /books/
   - title: divider 
-  - title: Cntact us
+  - title: Contact us
     permalink: /contactus/
   - title: divider
   - title: Join us
