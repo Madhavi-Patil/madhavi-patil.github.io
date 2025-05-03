@@ -14,18 +14,19 @@ profiles:
     content: about_gaushi.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Assistant professor Gautam Shirsekar </p>
+      <p>Assistant professor</p>
   - align: left
     image: Anugya_prof_pic.jpg
     content: about_anugya.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Anugya Bhattarai </p>
+      <p>Graduate Student</p>
   - align: right
     image: prof_pic_rachel.jpg
     content: about_rachel.md
     image_circular: false # crops the image to make it circular
-    # more_info: Lab Manager (June 2024 - )
+    more_info: >
+      <p>Lab Manager </p>
   - align: left
     content: about_alumni.md
 ---
