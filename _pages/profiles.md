@@ -27,5 +27,5 @@ profiles:
     image_circular: false # crops the image to make it circular
     # more_info: Lab Manager (June 2024 - )
   - align: left
-    content: about_alumin.md
+    content: about_alumni.md
 ---
