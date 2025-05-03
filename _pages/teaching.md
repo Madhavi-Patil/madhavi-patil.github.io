@@ -35,4 +35,4 @@ ANRB122, MWF 1:50-2:40
 __________
 
 
-*For detailed description of the courses, and tutorials, please visit my [teaching website](https://coevolutionlab.gitlab.io/coevolutionlab/)*
+*For detailed description of the courses, and tutorials, please visit my [teaching website](https://coevolutionlab.gitlab.io/coevolutionlab/courses/)*
