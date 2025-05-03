@@ -2,15 +2,15 @@
 layout: page
 title: More
 nav: true
-nav_order: 7
+nav_order: 6
 dropdown: true
 children:
-  - title: bookshelf
+  - title: Bookshelf
     permalink: /books/
   - title: divider 
-  - title: contact us
+  - title: Cntact us
     permalink: /contactus/
   - title: divider
-  - title: join us
+  - title: Join us
     permalink: /joinus/
 ---
