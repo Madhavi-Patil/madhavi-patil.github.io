@@ -193,6 +193,9 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/cv.md
+  - _includes/cv
+  - _includes/resume
 keep_files:
   - CNAME
   - .nojekyll
