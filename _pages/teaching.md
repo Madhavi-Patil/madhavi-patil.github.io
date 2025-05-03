@@ -7,13 +7,16 @@ nav: true
 nav_order: 5
 ---
 _________
+
 #### **EPP531 (Fall 2024) Conservation and Population Genomics Journal Club (1 credit)**
 This course is open to upper-undergraduate and graduate students of the University of Tennessee, Knoxville.
 
 **Place and Time**
 
 ANRB128, W 11:10-12:10
+
 _________
+
 
 #### **EPP604 (Spring 2025) Plant Immunity: System and Evolution (3 credits)**
 Plant Disease resistance is crucial for global food security. In this course, students will learn about:
@@ -28,6 +31,7 @@ This course is designed for graduate students (upper-undergraduates will be cons
 **Place and Time**
 
 ANRB122, MWF 1:50-2:40
+
 __________
 
 
