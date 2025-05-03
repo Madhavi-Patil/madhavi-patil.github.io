@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: These are the courses I teach in the Department of Enotomology and Plant Pathology at UTK 
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 1. **EPP531 (Fall 2024) Conservation and Population Genomics Journal Club (1 credit)**
