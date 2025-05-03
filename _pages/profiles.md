@@ -14,7 +14,7 @@ profiles:
     content: about_gaushi.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Gautam Shirsekar </p>
+      <p>Assistant professor Gautam Shirsekar </p>
   - align: left
     image: Anugya_prof_pic.jpg
     content: about_anugya.md
@@ -27,13 +27,5 @@ profiles:
     image_circular: false # crops the image to make it circular
     # more_info: Lab Manager (June 2024 - )
   - align: left
-    image: prof_pic_david.jpg
-    content: about_david.md
-    image_circular: false # crops the image to make it circular
-    # more_info: GIS Manager (June 2024 - August 2024)
-  - align: right
-    image: prof_pic_olivia.jpg
-    content: about_olivia.md
-    image_circular: false # crops the image to make it circular
-    # more_info: Collections Manager (May 2024 - August 2024)
+    content: about_alumin.md
 ---
