@@ -6,7 +6,7 @@ nav: false
 social: true # includes social icons at the bottom of the page
 ---
 
-Email: gshirsek@utk.edu / lab email id
+Email: gshirsek[at]utk.edu / lab email id
 
 Postal address: 
 
