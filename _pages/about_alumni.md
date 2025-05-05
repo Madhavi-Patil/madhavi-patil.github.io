@@ -1,4 +1,4 @@
-<a href="/news/"> Gallery </a>
+<a href="/gallery/"> Gallery </a>
 ---------------
 
 Alumin
