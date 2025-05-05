@@ -13,20 +13,24 @@ profiles:
     image: prof_pic.jpg
     content: about_gaushi.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Assistant professor</p>
+    # more_info: >
+    #  <p>Assistant professor</p>
   - align: left
     image: Anugya_prof_pic.jpg
     content: about_anugya.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Graduate Student</p>
+    # more_info: >
+    #  <p>Graduate Student</p>
   - align: right
     image: prof_pic_rachel.jpg
     content: about_rachel.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Lab Manager </p>
+    # more_info: >
+    #  <p>Lab Manager </p>
   - align: left
+    image: prof_pic_rachel.jpg
+    content: about_abi.md
+    image_circular: false # crops the image to make it circular
+  - align: right
     content: about_alumni.md
 ---
