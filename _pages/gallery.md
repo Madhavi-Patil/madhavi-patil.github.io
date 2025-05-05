@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /gallery/
 title: Gallery
 img: assets/img/12.jpg
 ---
