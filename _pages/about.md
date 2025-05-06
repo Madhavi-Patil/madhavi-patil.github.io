@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: <a href='https://utia.tennessee.edu/'> Institute of Agriculture, University of Tennessee, Knoxville</a>. 
-img: ../assets/img/12.jpg
+img: "../assets/img/12.jpg"
 profile:
   align: top
   image: coevolutionlab_logo.png
