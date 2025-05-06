@@ -5,12 +5,11 @@
         {%
           include figure.liquid
           loading="eager"
-          path= ../assets/img/1.jpg
+          path= "../assets/img/1.jpg"
           sizes = "250px"
           alt="project thumbnail"
           class="card-img-top"
         %}
-      {% endif %}
     </div>
   </a>
 </div>
