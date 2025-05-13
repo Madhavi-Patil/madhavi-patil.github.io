@@ -1,7 +1,7 @@
 
 <p></p>
 <div>
-  <h4>Katie Wood, </h4> 
+  <h4>Katie Wood </h4> 
   <br>
   <i class="fa fa-envelope"></i> <em>kwood31[at]utk[dot]edu</em> <br>
   <i class="fa fa-globe"></i> <a target="_blank">Graduate Student @UTK</a> <br>
