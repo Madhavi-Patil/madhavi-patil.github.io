@@ -28,8 +28,8 @@ profiles:
     # more_info: >
     #  <p>Lab Manager </p>
   - align: left
-    image: prof_pic_rachel.jpg
-    content: about_abi.md
+    image: prof_pic_jacob.jpg
+    content: about_jacob.md
     image_circular: false # crops the image to make it circular
   - align: right
     content: about_alumni.md
