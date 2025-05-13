@@ -1,8 +1,8 @@
 <div>
-  <h4>todo</h4> 
+  <h4>Jacob Smith</h4> 
   <br>
-  <i class="fa fa-envelope"></i> <em>todo[at]tennessee[dot]edu</em> <br>
-  <i class="fa fa-globe"></i> <a href="" target="_blank">todo @UTK</a> <br>
+  <i class="fa fa-envelope"></i> <em>jsmit619[at]tvols[dot]utk[dot]edu</em> <br>
+  <i class="fa fa-globe"></i> <a href="" target="_blank">Research Assistant @UTK</a> <br>
   <br>
-  todo
+  Jacob Smith recently graduated with a Bachelor of Science in Ecological and Evolutionary Biology from the University of Tennessee, Knoxville. His past research has focused on mycorrhizal fungi and their interactions with abiotic factors such as soil properties and climate. Jacob is interested in using genomics to develop more sustainable agricultural practices.
 </div>
