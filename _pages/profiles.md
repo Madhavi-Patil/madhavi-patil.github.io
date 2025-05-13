@@ -19,15 +19,19 @@ profiles:
     image: Anugya_prof_pic.jpg
     content: about_anugya.md
     image_circular: false # crops the image to make it circular
+  - align: right
+    image: prof_pic_katie.jpg
+    content: about_katie.md
+    image_circular: false # crops the image to make it circular
     # more_info: >
     #  <p>Graduate Student</p>
-  - align: right
+  - align: left
     image: prof_pic_rachel.jpg
     content: about_rachel.md
     image_circular: false # crops the image to make it circular
     # more_info: >
     #  <p>Lab Manager </p>
-  - align: left
+  - align: right
     image: prof_pic_jacob.jpg
     content: about_jacob.md
     image_circular: false # crops the image to make it circular
