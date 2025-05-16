@@ -2,7 +2,7 @@
 layout: page
 title: project 1
 description: with background image
-img: assets/img/brm.jpg
+img: assets/img/vines.jpg
 importance: 1
 category: Past
 related_publications: true
