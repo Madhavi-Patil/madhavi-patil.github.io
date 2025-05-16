@@ -1,4 +1,3 @@
-# <a href="/gallery/"> Gallery </a>
 <div class="container">
   <div class="row row-cols-1 row-cols-md-3">
     <div class="col">
@@ -9,9 +8,12 @@
               loading="eager"
               path= "../assets/img/1.jpg"
               sizes = "250px"
-              alt="project thumbnail"
+              alt="Lab Gallery"
               class="card-img-top"
             %}
+          <div class="card-body">
+            <h2 class="card-title">Lab Gallery</h2>
+          </div>
         </div>
       </a>
     </div>
