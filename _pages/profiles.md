@@ -35,11 +35,14 @@ profiles:
     image: prof_pic_jacob.jpg
     content: about_jacob.md
     image_circular: false # crops the image to make it circular
-  - align: right
+  - align: left
     image: Brayden_prof_pic.jpg
     content: about_brayden.md
     image_circular: false # crops the image to make it circular
-  - align: left
+  - align: right
+    image: Abby_prof_pic.jpg
+    content: about_abby.md
+    image_circular: false # crops the image to make it circular
     
     content: about_alumni.md
 ---
