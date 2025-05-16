@@ -39,7 +39,7 @@ profiles:
     image: Brayden_prof_pic.jpg
     content: about_brayden.md
     image_circular: false # crops the image to make it circular
-  - align: right
+  - align: left
     
     content: about_alumni.md
 ---
