@@ -13,6 +13,15 @@ Downy mildew, caused by the oomycete <em>Plasmopara viticola</em>, poses a signi
 2. Which genomic regions in both the host and pathogen exhibit signatures of rapid, reciprocal coevolution?
 3. What are the migration dynamics of <em>Plasmopara viticola</em> strains between wild and cultivated grape populations?
 
+4. <div class="row justify-content-sm-center">
+  <div class="col-sm-4 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/dm.jpg" title="Blue Ridge Mountains" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm-4 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/lab.jpg" title="The CoEvolutionLab Sampling" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+
 
 
 
