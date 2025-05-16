@@ -36,5 +36,10 @@ profiles:
     content: about_jacob.md
     image_circular: false # crops the image to make it circular
   - align: right
+    image: Brayden_prof_pic.jpg
+    content: about_brayden.md
+    image_circular: false # crops the image to make it circular
+  - align: right
+    
     content: about_alumni.md
 ---
