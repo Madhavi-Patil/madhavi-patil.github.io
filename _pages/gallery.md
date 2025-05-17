@@ -18,7 +18,7 @@ img: assets/img/12.jpg
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/team3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/team10.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Caption test1
         </div>
@@ -68,7 +68,7 @@ img: assets/img/12.jpg
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/team10.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
-            Caption test10
+            Sample: That is how you add just one image in a row
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
