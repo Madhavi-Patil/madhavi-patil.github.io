@@ -20,7 +20,7 @@ Abby Scott will be working alongside Gautam on a crucial mission to locate <em> 
 
 We are looking forward to a productive, adventurous, and insightful summer with Brayden, Jacob, and Abby on board!!!
 
----
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
