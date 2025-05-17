@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-research",
+          title: "Research",
+          description: "A growing collection of your research projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
+          },
         },{id: "nav-members",
           title: "Members",
           description: "Current and Former Members of the Lab",
@@ -58,14 +65,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/joinus/";
               },
-            },{id: "nav-research",
-          title: "Research",
-          description: "A growing collection of your research projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/research/";
-          },
-        },{id: "post-a-post-with-plotly-js",
+            },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
