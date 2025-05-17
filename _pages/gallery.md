@@ -8,13 +8,13 @@ img: assets/img/team4.jpg
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/team7.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
-            A Tenseness volunteer in fur: Smoky Bear.
+            A True Tennessee Volunteer in fur arrives for sampling!
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/team8.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
-            Visiting member.
+            Visiting scholar?
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
@@ -28,13 +28,13 @@ img: assets/img/team4.jpg
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/team1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
-            Having a grape time!
+            Having a Grape Time!
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/team2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
-            When life gives you a oversized grapevine... you swing on it.
+            When life gives you an old grapevine... you swing on it.
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
@@ -64,7 +64,7 @@ img: assets/img/team4.jpg
         </div>
     </div>
 </div>
-
+/* 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/team10.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -77,3 +77,4 @@ img: assets/img/team4.jpg
     <div class="col-sm mt-3 mt-md-0">
     </div>
 </div>
+*/
