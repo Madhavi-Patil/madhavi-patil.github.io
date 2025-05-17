@@ -4,7 +4,6 @@ title: Training at Appalachian Fruit Research Station in Kearneysville
 date: 2025-04-17
 inline: false
 related_posts: false
-permalink: /news/
 ---
 
  USDA Visit 
