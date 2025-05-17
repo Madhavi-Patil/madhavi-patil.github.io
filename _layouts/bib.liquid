@@ -66,6 +66,10 @@
             {% assign author_is_self = true %}
         {% elsif site.scholar.first_name contains author.first %}
             {% assign author_is_self = true %}
+        {% elsif site.scholar.last_name contains author.first %}
+            {% assign author_is_self = true %}
+        {% elsif site.scholar.first_name contains author_last_name %}
+            {% assign author_is_self = true %}
         {% endif %}
         {% assign coauthor_url = null %}
         {%- assign clean_last_name = author_last_name | downcase | remove_accents -%}
