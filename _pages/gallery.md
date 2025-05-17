@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /gallery/
-title: Gallery
-img: assets/img/12.jpg
+title: Lab Gallery
+img: assets/img/team4.jpg
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
