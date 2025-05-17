@@ -445,7 +445,7 @@ ninja.data = [{
           title: 'Training at Appalachian Fruit Research Station in Kearneysville',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/";
+              window.location.href = "/news/announcement_3/";
             },},{id: "news-anugya-bhattarai-wins-graduate-student-research-award",
           title: 'Anugya Bhattarai wins Graduate Student Research Award!',
           description: "",
