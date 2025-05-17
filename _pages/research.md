@@ -4,7 +4,6 @@ title: Research
 permalink: /research/
 description: A growing collection of your research projects.
 nav: true
-nav_order: 6
 display_categories: [Current]
 horizontal: false
 ---
