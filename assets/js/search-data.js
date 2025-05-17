@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "A growing collection of your research projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-research",
           title: "Research",
           description: "A growing collection of your research projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
+          },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "A growing collection of your research projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
           },
         },{id: "nav-members",
           title: "Members",
