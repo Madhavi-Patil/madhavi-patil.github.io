@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Gautam presented the <em> Arabidopsis </em> "Pangenome graph resolves the dynamic evolution of the plant immune system" at <a href="https://pangenome.github.io/MemPanG25" target="_blank">MemPanG25</a>. 
+Gautam presented "Pangenome graph resolves the dynamic evolution of the plant immune system" at <a href="https://pangenome.github.io/MemPanG25" target="_blank">MemPanG25</a>. 
 
 ---
 
