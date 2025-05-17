@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gautam presented in the pangenome conference MemPanG25
-date: 2023-05-21 
+date: 2025-05-13 
 inline: false
 related_posts: false
 ---
