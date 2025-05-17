@@ -4,6 +4,7 @@ title: Anugya Bhattarai wins Graduate Student Research Award!
 date: 2025-04-26 
 inline: false
 related_posts: false
+permalink: /news/
 ---
 
 Anugya received Graduate Student Research Award of $5000 from University of Tennessee’s Graduate School for her project “Identifying hotspots of genetic diversity in Tennessee’s wild grape populations to combat downy mildew disease”
