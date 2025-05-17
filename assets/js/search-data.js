@@ -431,8 +431,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_6/";
-            },},{id: "news-tbd",
-          title: 'tbd',
+            },},{id: "news-the-coevolutionlab-moves-into-shiny-and-bright-new-agriculture-and-natural-resources-building",
+          title: 'The CoEvolutionLab moves into shiny and bright new Agriculture and Natural Resources Building...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
