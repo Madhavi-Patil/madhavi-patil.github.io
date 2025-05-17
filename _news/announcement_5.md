@@ -10,3 +10,10 @@ The CoEvolutionLab will be set up in the Lab # 339 in Agriculture and Natural Re
 
 ---
 
+
+{% include figure.liquid loading="eager" path='../../assets/img/lab.jpg' title="The CoEvolution labspace" class="img-fluid rounded z-depth-1" %}
+The CoEvolution labspace
+{% include figure.liquid loading="eager" path='../../assets/img/lab_office.jpg' title="Student Offices" class="img-fluid rounded z-depth-1" %}
+Student Offices allow for plenty of sunlight and plenty of glass to scribble on!!
+{% include figure.liquid loading="eager" path='../../assets/img/lab2.jpg' title="Frozen Head" class="img-fluid rounded z-depth-1" %}
+Rachel, Olivia, and David welcome our -80 freezer AKA "The Frozen Head"
