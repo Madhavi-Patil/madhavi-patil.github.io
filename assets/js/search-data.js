@@ -440,7 +440,7 @@ ninja.data = [{
           title: 'David Holdridge wins 2024 Fulbright Scholarship!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
+              window.location.href = "/news/";
             },},{id: "news-training-at-appalachian-fruit-research-station-in-kearneysville",
           title: 'Training at Appalachian Fruit Research Station in Kearneysville',
           description: "",
@@ -450,7 +450,7 @@ ninja.data = [{
           title: 'Anugya Bhattarai wins Graduate Student Research Award!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/news/";
             },},{id: "news-new-team-member",
           title: 'New team member!',
           description: "",
