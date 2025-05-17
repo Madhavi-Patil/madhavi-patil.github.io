@@ -6,7 +6,7 @@
             {%
               include figure.liquid
               loading="eager"
-              path= "../assets/img/1.jpg"
+              path= "../assets/img/team4.jpg"
               sizes = "250px"
               alt="Lab Gallery"
               class="card-img-top"
