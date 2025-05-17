@@ -12,7 +12,7 @@ We encourage applications from bright minds in biology, mathematics, computer sc
 
 
 
-<a href ='https://gradschool.utk.edu/future-students/office-of-graduate-admissions/applying-to-graduate-school/'>Applying to the Graduate School.</a>
+<a href ='https://gradschool.utk.edu/future-students/office-of-graduate-admissions/applying-to-graduate-school/' target="_blank">Applying to the Graduate School.</a>
 
 
-<a href = "https://bredesencenter.utk.edu/genome-science/">Genome Science and Technology Program of University of Tennessee - Oak Ridge Innovation Institute. </a>
+<a href = "https://bredesencenter.utk.edu/genome-science/" target="_blank">Genome Science and Technology Program of University of Tennessee - Oak Ridge Innovation Institute. </a>
