@@ -451,8 +451,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-new-team-member",
-          title: 'New team member!',
+            },},{id: "news-new-team-members",
+          title: 'New team members!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
