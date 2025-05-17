@@ -97,9 +97,10 @@ lsi: false # produce an index for related posts
 pagination:
   enabled: true
 
+# News settings
 related_blog_posts:
   enabled: true
-  max_related: 3
+  max_related: 5
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
