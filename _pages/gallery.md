@@ -34,7 +34,7 @@ img: assets/img/12.jpg
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/team2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
-            When life gives you oversized grapes... you sit on them.
+            When life gives you oversized grapevine... you swing on them.
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
