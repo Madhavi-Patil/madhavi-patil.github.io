@@ -6,7 +6,8 @@ nav: false
 social: true # includes social icons at the bottom of the page
 ---
 
-Email: gshirsek[at]utk.edu / lab email id
+Email: gshirsek@utk.edu
 
-Postal address: 
+
+For ordering and shipping enquiries please contact Rachel Carpenter at rcarpe14@vols.utk.edu
 
