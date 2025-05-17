@@ -426,11 +426,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-gautam-presented-in-the-pangenome-conference-mempang25",
-          title: 'Gautam presented in the pangenome conference MemPanG25',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_6/";
             },},{id: "news-the-coevolutionlab-moves-into-shiny-and-bright-new-agriculture-and-natural-resources-building",
           title: 'The CoEvolutionLab moves into shiny and bright new Agriculture and Natural Resources Building...',
           description: "",
@@ -456,6 +451,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
+            },},{id: "news-gautam-presented-in-the-pangenome-conference-mempang25",
+          title: 'Gautam presented in the pangenome conference MemPanG25',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_6/";
             },},{id: "projects-wild-grape-diversity",
           title: 'Wild Grape Diversity',
           description: "",
