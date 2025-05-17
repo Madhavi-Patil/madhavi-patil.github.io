@@ -2,7 +2,7 @@
 layout: page
 title: News
 permalink: /news/
-nav: false
+nav: true
 social: true # includes social icons at the bottom of the page
 ---
 
