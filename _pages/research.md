@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 description: A growing collection of your research projects.
-nav: true
+nav: false 
 display_categories: [Current]
 horizontal: false
 ---
