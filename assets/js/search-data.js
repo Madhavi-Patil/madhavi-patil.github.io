@@ -426,8 +426,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-tbd",
-          title: 'tbd',
+            },},{id: "news-gautam-presented-in-the-pangenome-conference-mempang25",
+          title: 'Gautam presented in the pangenome conference MemPanG25',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_6/";
