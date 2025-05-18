@@ -63,8 +63,8 @@ title: Lab Gallery
         </div>
     </div>
 </div>
-/* 
-<div class="row">
+
+<!-- div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/team10.jpg"  class="img-fluid rounded z-depth-1" %}
         <div class="caption">
@@ -75,5 +75,4 @@ title: Lab Gallery
     </div>
     <div class="col-sm mt-3 mt-md-0">
     </div>
-</div>
-*/
+</div -->
