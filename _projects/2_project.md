@@ -2,7 +2,6 @@
 layout: page
 title: Wild Grape-Downy Mildew Interaction
 description: 
-img: assets/img/dm.jpg
 importance: 2
 category: Current
 ---
