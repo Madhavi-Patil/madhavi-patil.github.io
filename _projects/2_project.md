@@ -3,6 +3,7 @@ layout: page
 title: Wild Grape-Downy Mildew Interaction
 description: 
 importance: 2
+img: "../../assets/img/dm.jpg"
 category: Current
 ---
 
