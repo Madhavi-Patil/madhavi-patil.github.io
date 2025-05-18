@@ -3,6 +3,7 @@ layout: page
 title: Plant Immune System Evolution
 description: 
 importance: 3
+img: "../../assets/img/neighborhood.png"
 category: Current
 ---
 
