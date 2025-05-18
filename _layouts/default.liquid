@@ -15,11 +15,16 @@
     {% include head.liquid %}
   </head>
 
-  <!-- Body -->
+<!-- Body -->
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
     <!-- Header -->
     {% include header.liquid %}
-
+    
+    <!-- Header image-->
+    {% if page.img %}
+      {% include header_image.liquid %}
+    {% endif %}
+    
     <!-- Content -->
     <div class="container mt-5" role="main">
       {% if page.toc and page.toc.sidebar %}
