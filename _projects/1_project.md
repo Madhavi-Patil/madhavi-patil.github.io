@@ -2,7 +2,7 @@
 layout: page
 title: Wild Grape Diversity
 description: 
-img: assets/img/vines.jpg
+img: "../../assets/img/vines.jpg"
 importance: 1
 category: Current
 related_publications: false
