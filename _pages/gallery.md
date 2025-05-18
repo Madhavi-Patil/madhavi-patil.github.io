@@ -2,7 +2,6 @@
 layout: page
 permalink: /gallery/
 title: Lab Gallery
-img: assets/img/team4.jpg
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
