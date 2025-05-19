@@ -6,7 +6,7 @@ nav: false
 social: true # includes social icons at the bottom of the page
 ---
 
-<b> Coevolution Laboratory </b>
+<b> Coevolution Laboratory </b> <br>
 <i class="fa fa-envelope"></i> <em> gshirsek@utk.edu </em> 
 
 
