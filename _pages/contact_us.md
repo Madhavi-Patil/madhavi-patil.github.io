@@ -6,8 +6,8 @@ nav: false
 social: true # includes social icons at the bottom of the page
 ---
 
-Email: gshirsek@utk.edu
+<i class="fa fa-envelope"></i> <em> gshirsek@utk.edu </em> </br>
 
 
-For ordering and shipping enquiries please contact Rachel Carpenter at rcarpe14@vols.utk.edu
+For ordering and shipping enquiries please contact Rachel Carpenter at <i class="fa fa-envelope"></i> <em>rcarpe14@vols.utk.edu</em>
 
