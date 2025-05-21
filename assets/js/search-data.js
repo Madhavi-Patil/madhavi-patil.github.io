@@ -58,12 +58,12 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/joinus/";
               },
-            },{id: "nav-research",
-          title: "Research",
-          description: "A growing collection of your research projects.",
+            },{id: "nav-wip",
+          title: "wip",
+          description: "Work in progress.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/research/";
+            window.location.href = "/wip/";
           },
         },{id: "post-a-post-with-plotly-js",
         
