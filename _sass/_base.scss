@@ -1421,7 +1421,7 @@ figure.cover {
 // Header image for the page
 .bg-img {
   /* The image used */
-  background-image: url('{{ page.img }}');
+ // background-image: url('{{ page.img }}');
 
   min-height: 380px;
 
