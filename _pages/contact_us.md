@@ -3,7 +3,8 @@ layout: page
 title: Contact us
 permalink: /contactus/
 nav: false
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
+img: ../assets/img/lab.jpg
 ---
 
 <b> Coevolution Laboratory </b> <br>
