@@ -3,8 +3,7 @@ layout: page
 title: wip
 permalink: /wip/
 description: Work in progress.
-nav: true 
-nav_order: 8
+nav: false 
 images:
   slider: true
 ---
