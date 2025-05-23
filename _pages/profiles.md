@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /team/
-title: Meet The Team
-description: Current and Former Members of the Lab
+permalink: /members/
+title: Members
+description: Meet the Team: Current and Former Members of the Lab
 nav: true
 nav_order: 3
 
