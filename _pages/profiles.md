@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /members/
 title: Members
-description: Meet the Team: Current and Former Members of the Lab
+description: Meet the Team, Current and Former Members of the Lab
 nav: true
 nav_order: 3
 
