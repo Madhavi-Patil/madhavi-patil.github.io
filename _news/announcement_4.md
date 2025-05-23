@@ -4,6 +4,8 @@ title: New team members!
 date: 2025-05-12 
 inline: false
 related_posts: false
+tags: new-member
+categories: news
 ---
 
 Three new members for summer sampling 2025
