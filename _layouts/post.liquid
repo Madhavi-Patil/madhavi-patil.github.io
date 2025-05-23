@@ -25,7 +25,7 @@ layout: default
     <p class="post-tags">
       {% if url_beginning == '/blog/' %}
         <a href="{{ year | prepend: '/blog/' | relative_url }}"> <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
-      {% elseif url_beginning == '/news/' %}
+      {% elsif url_beginning == '/news/' %}
         <a href="{{ year | prepend: '/news/' | relative_url }}"> <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
       {% else %}
         <i class="fa-solid fa-calendar fa-sm"></i> {{ year }}
