@@ -4,39 +4,27 @@ title: wip
 permalink: /wip/
 description: Work in progress.
 nav: false 
+thumbnail: assets/img/9.jpg
+images:
+  slider: true
 ---
 
-<div class="row">
-    <div class="col-sm mt-4 mt-md-0">
-             <div class="slideshow-container">
-                    <div class="mySlides fade">
-                          <div class="numbertext">1 / 3</div>
-                          {% include figure.liquid loading="eager" path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" %}
-                          <div class="text">Caption Text</div>
-                    </div>
-                    <div class="mySlides fade">
-                          <div class="numbertext">2 / 3</div>
-                          <img src="assets/img/7.jpg" style="width:100%">
-                          <div class="text">Caption Two</div>
-                    </div>
-                    <div class="mySlides fade">
-                          <div class="numbertext">3 / 3</div>
-                          {% include figure.liquid loading="eager" path="assets/img/10.jpg" class="img-fluid rounded z-depth-1" %}
-                          <div class="text">Caption Three</div>
-                    </div>
-             </div>
-            <br>
-            <div style="text-align:center; max-width: 500px;">
-                      <span class="dot" onclick="currentSlide(1)"></span> 
-                      <span class="dot" onclick="currentSlide(2)"></span> 
-                      <span class="dot" onclick="currentSlide(3)"></span> 
-            </div>               
-    </div>
-    <div class="col-sm mt-4 mt-md-0">
-       test
-    </div>
-</div>
+<b> Unlock the Secrets of Coevolution with Diverse Perspectives! </b> Our team, at the intersection of plant pathology, ecology, evolution, theoretical and computational biology, and genomics, is expanding! 
 
+We encourage applications from bright minds in biology, mathematics, computer science, physics, genomics, and other quantitative or biological disciplines who are excited to explore the coevolutionary dance in wild plant pathosystems. Opportunities are available for Research Technicians, Undergraduate Researchers, Graduate Researchers, and Postdoctoral Fellows
+
+
+
+<a href ='https://gradschool.utk.edu/future-students/office-of-graduate-admissions/applying-to-graduate-school/' target="_blank">Applying to the Graduate School.</a>
+
+
+<a href = "https://bredesencenter.utk.edu/genome-science/" target="_blank">Genome Science and Technology Program of University of Tennessee - Oak Ridge Innovation Institute. </a>
+
+<swiper-container width="50%" height="50%" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" space-between="30" pagination-dynamic-bullets="true" rewind="true" centered-slides="true" autoplay-delay="2500" autoplay-disable-on-interaction="false">
+    <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/landscape/IMG_1714.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+    <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/landscape/IMG_1736.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+    <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/landscape/IMG_1747.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
 
 ## Meet The Lab
 
