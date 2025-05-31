@@ -7,6 +7,7 @@ nav_order: 8
 social: false # includes social icons at the bottom of the page
 ---
 
+<hr>
 <b> Unlock the Secrets of Coevolution with Diverse Perspectives! </b> Our team, at the intersection of plant pathology, ecology, evolution, theoretical and computational biology, and genomics, is expanding! 
 
 We encourage applications from bright minds in biology, mathematics, computer science, physics, genomics, and other quantitative or biological disciplines who are excited to explore the coevolutionary dance in wild plant pathosystems. Opportunities are available for Research Technicians, Undergraduate Researchers, Graduate Researchers, and Postdoctoral Fellows
