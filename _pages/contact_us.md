@@ -8,7 +8,7 @@ social: false # includes social icons at the bottom of the page
 img: ../assets/img/lab.jpg
 ---
 
-<b> Coevolution Laboratory </b> <br>
+<b> Coevolution Laboratory </b> <br> <hr>
 <i class="fa fa-envelope"></i> <em> gshirsek@utk.edu </em> 
 
 
