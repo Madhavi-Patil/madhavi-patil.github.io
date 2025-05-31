@@ -445,6 +445,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_6/";
+            },},{id: "news-abby-and-brayden-are-setting-up-greenhouse",
+          title: 'Abby and Brayden are setting up Greenhouse',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_7/";
             },},{id: "projects-wild-grape-diversity",
           title: 'Wild Grape Diversity',
           description: "",
