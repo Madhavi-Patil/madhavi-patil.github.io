@@ -20,10 +20,10 @@ We encourage applications from bright minds in biology, mathematics, computer sc
 
 <a href = "https://bredesencenter.utk.edu/genome-science/" target="_blank">Genome Science and Technology Program of University of Tennessee - Oak Ridge Innovation Institute. </a>
 
-<swiper-container width="50%" height="50%" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" space-between="30" pagination-dynamic-bullets="true" rewind="true" centered-slides="true" autoplay-delay="2500" autoplay-disable-on-interaction="false">
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" space-between="30" pagination-dynamic-bullets="true" rewind="true" centered-slides="true" autoplay-delay="2500" autoplay-disable-on-interaction="false">
     <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/landscape/IMG_1714.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
     <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/landscape/IMG_1736.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-    <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/landscape/IMG_1747.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+    <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/landscape/IMG_1745.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
 ## Meet The Lab
