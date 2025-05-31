@@ -7,8 +7,8 @@ nav_order: 7
 social: false # includes social icons at the bottom of the page
 img: ../assets/img/lab.jpg
 ---
-
-<b> Coevolution Laboratory </b> <br> <hr>
+<hr>
+<b> Coevolution Laboratory </b> <br>
 <i class="fa fa-envelope"></i> <em> gshirsek@utk.edu </em> 
 
 
