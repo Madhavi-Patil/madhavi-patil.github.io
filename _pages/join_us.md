@@ -2,8 +2,9 @@
 layout: page
 title: Join us
 permalink: /joinus/
-nav: false
-social: true # includes social icons at the bottom of the page
+nav: true
+nav_order: 8
+social: false # includes social icons at the bottom of the page
 ---
 
 <b> Unlock the Secrets of Coevolution with Diverse Perspectives! </b> Our team, at the intersection of plant pathology, ecology, evolution, theoretical and computational biology, and genomics, is expanding! 
