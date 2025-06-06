@@ -455,6 +455,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_8/";
+            },},{id: "news-anugya-is-now-a-recipient-of-2025-steven-c-nelson-early-career-development-fellowship-from-the-american-phytopathological-society",
+          title: 'Anugya is now a recipient of 2025 Steven C Nelson Early Career Development...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_9/";
             },},{id: "projects-wild-grape-diversity",
           title: 'Wild Grape Diversity',
           description: "",
