@@ -10,7 +10,7 @@ categories: news
 
 Abby's work is now supported by the American Phytopathological Society 
 ---
-Abby was awarded financial support of $1500 for her proposed research "Discovering Downy Mildew Resistance in Untamed <i> Vitis <\i> of the Blue Ridge Mountains". She will be propagating our Wild <i>Vitis<\i> germplasm for screening against downy mildew isolates that are being collected currently in National Forests across Tennessee, Virginia, and West Virginia.
+Abby was awarded financial support of $1500 for her proposed research "Discovering Downy Mildew Resistance in Untamed <i>Vitis</i> of the Blue Ridge Mountains". She will be propagating our Wild <i>Vitis</i> germplasm for screening against downy mildew isolates that are being collected currently in National Forests across Tennessee, Virginia, and West Virginia.
 She plans to work alongside the lab's graduate student, Anugya Bhattarai. 
 
 
