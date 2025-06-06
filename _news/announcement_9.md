@@ -20,7 +20,7 @@ Anugya plans to apply this technique to understand the genetics of disease resis
     <div class="col-sm mt-2 mt-md-0">
         {% include figure.liquid loading="eager" path='../../assets/img/usda_fields1.jpeg'  class="img-fluid rounded z-depth-1" %}
         <div class="caption">
-           Abby, Anugya(second from left), Dr. Sapkota and Gautam in Dr.Sapkota's newly established vineyards at the Appalachian Fruit Research Station in Kearnyesville, West Virginia.
+           Abby, Anugya(second from left), Dr. Sapkota and Gautam in Dr.Sapkota's newly established vineyards at the Appalachian Fruit Research Station in Kearneysville, West Virginia.
         </div>
     </div>
    <div class="col-sm mt-2 mt-md-0">
