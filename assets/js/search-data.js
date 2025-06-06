@@ -450,6 +450,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_7/";
+            },},{id: "news-abby-receives-2025-frank-l-howard-undergraduate-fellowship-from-the-american-phytopathological-society",
+          title: 'Abby receives 2025 Frank L. Howard Undergraduate Fellowship from the American Phytopathological Society...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_8/";
             },},{id: "projects-wild-grape-diversity",
           title: 'Wild Grape Diversity',
           description: "",
