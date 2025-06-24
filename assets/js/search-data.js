@@ -455,8 +455,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_8/";
-            },},{id: "news-anugya-received-an-american-phytopathological-society-fellowship",
-          title: 'Anugya received an American Phytopathological Society fellowship',
+            },},{id: "news-anugya-received-an-american-phytopathological-society-aps-fellowship",
+          title: 'Anugya received an American Phytopathological Society (APS) fellowship',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_9/";
