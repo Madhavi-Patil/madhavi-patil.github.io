@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anugya received an American Phytopathological Society fellowship
+title: Anugya received an American Phytopathological Society (APS) fellowship
 date: 2025-06-06 
 inline: false
 related_posts: false
@@ -10,8 +10,9 @@ categories: news
 
 Anugya's quest for automating downy mildew phenotyping got a boost from the APS. 
 ---
-With the support from the APS Anugya will visit Dr. Surya Sapkota's lab at the USDA-ARS Appalachian Fruit Research Station in Kearneysville, West Virginia. 
-She aims to master deep learning methods and robotic infrastructure for high-throughput, quantitative screening of wild grapes for downy mildew disease resistance. 
+Anugya is now a recipient of the 2025 Steven C Nelson Early Career Development Fellowship from the APS.
+With the support from the APS, Anugya will visit Dr. Surya Sapkota's lab at the USDA-ARS Appalachian Fruit Research Station in Kearneysville, West Virginia. 
+She aims to master high-throughput, quantitative screening of wild grapes for resistance to downy mildew disease using robotic infrastructure and deep learning algorithms.
 Anugya plans to apply this technique to understand the genetics of disease resistance in wild grape populations across Tennessee, Virginia, and West Virginia. 
 
 
