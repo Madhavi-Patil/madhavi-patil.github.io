@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anugya is now a recipient of 2025 Steven C Nelson Early Career Development Fellowship from the American Phytopathological Society
+title: Anugya received an American Phytopathological Society fellowship
 date: 2025-06-06 
 inline: false
 related_posts: false
@@ -8,7 +8,7 @@ tags: Fellowships
 categories: news
 ---
 
-Anugya's quest for automating downy mildew phenotyping got boost from the APS. 
+Anugya's quest for automating downy mildew phenotyping got a boost from the APS. 
 ---
 With the support from the APS Anugya will visit Dr. Surya Sapkota's lab at the USDA-ARS Appalachian Fruit Research Station in Kearneysville, West Virginia. 
 She aims to master deep learning methods and robotic infrastructure for high-throughput, quantitative screening of wild grapes for downy mildew disease resistance. 
