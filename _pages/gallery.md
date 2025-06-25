@@ -63,4 +63,23 @@ title: Lab Gallery
         </div>
     </div>
 </div>
-
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/abby_sampling2.jpg" zoomable="true" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+           Sampling Squad.
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/abby_sampling.jpg" zoomable="true" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Sampling in progress.
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/anugyabraydencherokee.jpg" zoomable="true" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+           Tsalagi/ Cherokee.
+        </div>
+    </div>
+</div>
