@@ -35,7 +35,8 @@ images:
     {% assign landscape_images = site.static_files | where_exp: "file", "file.path contains 'assets/img/landscape'" | where_exp: "file", "file.extname != '.webp'" | sample: 100 %}
     <swiper-container class="landscape-swiper" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" space-between="30" pagination-dynamic-bullets="true" rewind="true" centered-slides="true" autoplay-delay="2500" autoplay-disable-on-interaction="false">
       {% for image in landscape_images %}
-        <swiper-slide>{% include figure.liquid loading="eager" path=image.path class="img-fluid rounded z-depth-1" %}</swiper-slide>
+        {% assign img_path = image.path | remove_first: '/' %}
+        <swiper-slide>{% include figure.liquid loading="eager" path=img_path class="img-fluid rounded z-depth-1" %}</swiper-slide>
       {% endfor %}
     </swiper-container>
   </div>
