@@ -33,6 +33,7 @@ Abigail Scott (Fall 2024 - Spring 2025)
 Former Research Assistant — currently a SULI Research Intern at Oak Ridge National Laboratory (ORNL)
 
 Olivia Lambert (May 2024 - August 2024)
+Currently pursuing a B.S. in Zoology at Oregon State University
 
 David Holdridge (June 2024 - August 2024)
-Bachelor of Science (Forestry) from the University of Tennessee
+Fulbright Scholar — conducting research in Indonesia on tropical restoration ecology, specifically developing strategies to restore degraded lands following former oil palm cultivation
