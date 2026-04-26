@@ -6,7 +6,7 @@ subtitle: <a href='https://utia.tennessee.edu/'> Institute of Agriculture, Unive
 img: "../assets/img/brm3.jpg"
 profile:
   align: top
-  image: coevolutionlab_logo.png
+  image: coevolutionlab_logo.new.png
   image_circular: false # crops the image to make it circular
   
 selected_papers: false # includes a list of papers marked as "selected={true}"
