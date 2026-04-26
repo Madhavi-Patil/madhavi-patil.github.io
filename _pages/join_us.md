@@ -5,10 +5,19 @@ permalink: /joinus/
 nav: true
 nav_order: 8
 social: false # includes social icons at the bottom of the page
-images:
-  slider: true
 ---
 
+<hr>
+<b>Unlock the Secrets of Coevolution with Diverse Perspectives!</b> Our team, at the intersection of plant pathology, ecology, evolution, theoretical and computational biology, and genomics, is expanding!
+
+We encourage applications from bright minds in biology, mathematics, computer science, physics, genomics, and other quantitative or biological disciplines who are excited to explore the coevolutionary dance in wild plant pathosystems. Opportunities are available for Research Technicians, Undergraduate Researchers, Graduate Researchers, and Postdoctoral Fellows.
+
+<a href='https://gradschool.utk.edu/future-students/office-of-graduate-admissions/applying-to-graduate-school/' target="_blank">Applying to the Graduate School.</a>
+
+<a href="https://bredesencenter.utk.edu/genome-science/" target="_blank">Genome Science and Technology Program of University of Tennessee - Oak Ridge Innovation Institute.</a>
+
+{% comment %}
+SLIDESHOW - commented out until image sizing is resolved
 <style>
   .joinus-layout { display: flex; gap: 2rem; align-items: flex-start; }
   .joinus-text { flex: 0 0 40%; }
@@ -19,17 +28,9 @@ images:
   .landscape-swiper swiper-slide picture { display: block; width: 100%; height: 420px; margin: 0; padding: 0; }
   .landscape-swiper swiper-slide img { width: 100%; height: 420px; object-fit: cover; object-position: center; display: block; }
 </style>
-
 <div class="joinus-layout">
   <div class="joinus-text">
-    <hr>
-    <b>Unlock the Secrets of Coevolution with Diverse Perspectives!</b> Our team, at the intersection of plant pathology, ecology, evolution, theoretical and computational biology, and genomics, is expanding!
-    <br><br>
-    We encourage applications from bright minds in biology, mathematics, computer science, physics, genomics, and other quantitative or biological disciplines who are excited to explore the coevolutionary dance in wild plant pathosystems. Opportunities are available for Research Technicians, Undergraduate Researchers, Graduate Researchers, and Postdoctoral Fellows.
-    <br><br>
-    <a href='https://gradschool.utk.edu/future-students/office-of-graduate-admissions/applying-to-graduate-school/' target="_blank">Applying to the Graduate School.</a>
-    <br><br>
-    <a href="https://bredesencenter.utk.edu/genome-science/" target="_blank">Genome Science and Technology Program of University of Tennessee - Oak Ridge Innovation Institute.</a>
+    ...text content...
   </div>
   <div class="joinus-slider">
     {% assign landscape_images = site.static_files | where_exp: "file", "file.path contains 'assets/img/landscape'" | where_exp: "file", "file.extname != '.webp'" | sample: 100 %}
@@ -41,3 +42,4 @@ images:
     </swiper-container>
   </div>
 </div>
+{% endcomment %}
