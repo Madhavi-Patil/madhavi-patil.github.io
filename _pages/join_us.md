@@ -12,9 +12,12 @@ images:
 <style>
   .joinus-layout { display: flex; gap: 2rem; align-items: flex-start; }
   .joinus-text { flex: 0 0 40%; }
-  .joinus-slider { flex: 0 0 60%; }
-  .landscape-swiper { height: 480px; }
-  .landscape-swiper swiper-slide img { width: 100%; height: 480px; object-fit: cover; object-position: center; }
+  .joinus-slider { flex: 0 0 58%; }
+  .landscape-swiper { height: 420px; }
+  .landscape-swiper swiper-slide,
+  .landscape-swiper swiper-slide figure,
+  .landscape-swiper swiper-slide picture { display: block; width: 100%; height: 420px; margin: 0; padding: 0; }
+  .landscape-swiper swiper-slide img { width: 100%; height: 420px; object-fit: cover; object-position: center; display: block; }
 </style>
 
 <div class="joinus-layout">
