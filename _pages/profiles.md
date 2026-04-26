@@ -26,22 +26,16 @@ profiles:
     # more_info: >
     #  <p>Graduate Student</p>
   - align: left
-    image: prof_pic_rachel.jpg
-    content: about_rachel.md
-    image_circular: false # crops the image to make it circular
-    # more_info: >
-    #  <p>Lab Manager </p>
-  - align: right
-    image: Abby_prof_pic.jpg
-    content: about_abby.md
-    image_circular: false # crops the image to make it circular
-  - align: left
-    image: prof_pic_jacob.jpg
+    image: jacob_new.jpg
     content: about_jacob.md
     image_circular: false # crops the image to make it circular
   - align: right
     image: Brayden_prof_pic.jpg
     content: about_brayden.md
+    image_circular: false # crops the image to make it circular
+  - align: left
+    image: Karuna_prof_pic.jpg
+    content: about_karuna.md
     image_circular: false # crops the image to make it circular
   
   - align: left 
