@@ -460,6 +460,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_9/";
+            },},{id: "news-anugya-bhattarai-received-a-graduate-student-senate-gss-travel-award",
+          title: 'Anugya Bhattarai received a Graduate Student Senate (GSS) Travel Award',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_10/";
             },},{id: "projects-wild-grape-diversity",
           title: 'Wild Grape Diversity',
           description: "",
